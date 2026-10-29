@@ -1,0 +1,2 @@
+# Social-Media-as-Predictive-Information-for-Stock-Market
+Financial social media like StockTwits holds rich discussion on public companies, with users sharing opinions, news reactions, and optional Bullish/Bearish labels. This text enables two key research questions: Can NLP models accurately infer an investor's market stance from their post? And does this sentiment predict future stock performance?
