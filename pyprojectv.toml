@@ -1,0 +1,17 @@
+[project]
+name = "social-media-as-predictive-information-for-stock-market"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "Hachani", email = "luca.hachani@gmail.com" }
+]
+requires-python = ">=3.12"
+dependencies = []
+
+[project.scripts]
+social-media-as-predictive-information-for-stock-market = "social_media_as_predictive_information_for_stock_market:main"
+
+[build-system]
+requires = ["uv_build>=0.12.15,<0.13.0"]
+build-backend = "uv_build"
