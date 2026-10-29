@@ -28,6 +28,7 @@ dependencies = [
     "flax>=0.10.4",
     "scikit-learn>=1.9.1",
     "jupyter>=1.1.1",
+    "spacy>=3.8.18",
 ]
 
 [project.scripts]
